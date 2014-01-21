@@ -1,4 +1,7 @@
-/VolleyExample
 bin
+gen
 .metadata
 *.class
+.settings
+.classpath
+.project
